@@ -14,7 +14,7 @@ Projeto foi desenvolvido como desafio frontend para concorrer a vagar na The Bro
 - JSON
 - Entre outras
 
-O projeto pode ser visualizado no vercel, [clicando aqui](https://)
+O projeto pode ser visualizado no vercel, [clicando aqui](https://code-challenge-brothers.vercel.app/)
 
 ## Instalação de dependências e inicialização do projeto localmente
 

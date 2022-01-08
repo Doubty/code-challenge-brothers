@@ -1,0 +1,73 @@
+.promocao-item {
+  flex: 2 1 400px;
+  border: 4px solid #e74c3c;
+  padding: 20px;
+  margin: 10px;
+}
+
+.promocao-item h3 {
+  font-size: 1.5rem;
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.promocao-item span {
+  max-width: 300px;
+  margin: 20px auto;
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px 0 5px 0;
+  border-top: 4px solid #e74c3c;
+  border-bottom: 4px solid #e74c3c;
+  color: white;
+  font-size: 3em;
+}
+
+.promocao-item sup {
+  font-size: 1.5rem;
+}
+
+.promocao-item p {
+  max-width: 300px;
+  margin: 10px auto;
+  font-size: 1.25rem;
+  font-size: italic;
+  text-align: justify;
+  color: white;
+}
+
+.promocao-item a {
+  max-width: 300px;
+  display: block;
+  margin: 20px auto;
+  border: 4px solid;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 2.25em;
+  padding: 15px 0;
+  text-align: center;
+}
+
+.promocao-item a:hover {
+  max-width: 300px;
+  display: block;
+  margin: 20px auto;
+  border: 4px solid;
+  color: #e74c3c;
+  background-color: #222222;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 2.25em;
+  padding: 15px 0;
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  .promocao {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
